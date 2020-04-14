@@ -99,4 +99,4 @@ client.on("message", onMessage);   // On User Sending Message
 client.on('ready', onClientReady); // On Bot Start
 
 // Login
-client.login(token);
+client.login(procsse.env.BOT_TOKEN);
