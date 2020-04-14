@@ -1,0 +1,26 @@
+{
+  "name": "djs-webhook-forwarder",
+  "version": "0.0.4",
+  "description": "A simple Discord.js Webhook forwarder from a channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtajaziad/djs-webhook-forwarder.git"
+  },
+  "keywords": [
+    "d.js",
+    "channel",
+    "forwarder",
+    "webhook",
+    "discord"
+  ],
+  "author": "Murtaja Ziad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtajaziad/djs-webhook-forwarder/issues"
+  },
+  "homepage": "https://github.com/murtajaziad/djs-webhook-forwarder#readme"
+}
